@@ -52,4 +52,4 @@ Ambas bases contienen tablas relacionadas con:
 Este proyecto demuestra cómo los datos espaciales, combinados con procesos ETL y análisis en SQL Server, pueden aportar información valiosa para mejorar el transporte urbano, la planificación territorial y la movilidad ciudadana.
 
 ## 📝 Notas
-El proyecto completo, incluyendo scripts SQL, archivos SSIS y ejecutables, se encuentra en la carpeta de este repositorio.
+El proyecto completo, incluyendo scripts SQL, archivos SSIS y ejecutables, se encuentra en la carpeta de este repositorio. Y la documentación completa está en el pdf: SSIS - Geographic Data Analysis.pdf
