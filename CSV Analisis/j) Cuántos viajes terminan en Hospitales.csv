@@ -1,0 +1,416 @@
+Id_Viajes_Taxi,Proveedor,DuracionViaje_Segundos,Distancia_Metros,Clase,Nombre,Distancia
+8479,Mexico DF Taxi Libre,4062,16026,hospital,Hospital Pediatrico Legaria,199.9852633530293
+9300,Mexico DF Taxi Libre,1208,5540,hospital,Hospital Santa Monica,199.67941701789547
+1648,Mexico DF Taxi de Sitio,1567,5010,hospital,Médica San Luis,199.48784666169351
+1865,Mexico DF Taxi Libre,649,5669,hospital,Centro de Salud Dr. D. Orvañanos,199.44459840819943
+9565,Mexico DF Taxi Libre,473,3623,hospital,ISSSTE Clinica de Medicina Familiar,199.22909675733729
+4999,Mexico DF Taxi de Sitio,1377,3039,hospital,Ortopedia Flores,198.97401547663111
+2036,Mexico DF Taxi de Sitio,1869,9683,hospital,Hospital Santa Elena, Angeles Roma,198.95700819347365
+5740,Mexico DF Taxi Libre,823,7527,hospital,Hospital Materno Infantil Dr. Nicolas M. Cedillo,198.91149223899234
+4184,Mexico DF Taxi Libre,253,1846,hospital,Centro de Salud Cardiel,198.32648226470411
+1064,Mexico DF Taxi Libre,2783,8786,hospital,Santa Coleta,198.18059271894961
+2813,Mexico DF Taxi de Sitio,915,4334,hospital,Hospital Pediatrico Legaria,197.98999702516738
+7650,Mexico DF Taxi de Sitio,954,4263,hospital,Hospital Pediatrico Legaria,197.7969381897303
+4705,Mexico DF Radio Taxi,1170,35412,hospital,Imss Villalonguin,197.75633284525648
+8916,Mexico DF Radio Taxi,1287,11654,hospital,Centro de Salud Cardiel,197.63311029298799
+2912,Mexico DF Taxi Libre,1704,7194,hospital,Clinica Imss,197.48713401738647
+8834,Mexico DF Taxi Libre,211,910,hospital,Hospital Boutique,197.37467341173846
+7487,Mexico DF Taxi Libre,838,2680,hospital,Centro de Salud Cardiel,196.92844871822419
+2036,Mexico DF Taxi de Sitio,1869,9683,hospital,Hospital Consultores Ambientales, S.A. De C.V.,196.62493069936048
+10448,Mexico DF Taxi Libre,623,5135,hospital,Hospital De Cos,196.47767371448836
+6943,Mexico DF Taxi Libre,2012,6543,hospital,Hospital General Enrique Cabrera,196.23100760179386
+1781,Mexico DF Taxi de Sitio,536,3178,hospital,Hospital Azura Centro,195.87276313129166
+1778,Mexico DF Taxi de Sitio,536,3178,hospital,Hospital Azura Centro,195.87276313129166
+9214,Mexico DF Taxi Libre,1317,6071,hospital,Hospital Materno Infantil Magdalena Contreras,195.1272196707047
+9166,Mexico DF Taxi de Sitio,2052,11348,hospital,Hospital vicentino y casa hogar,195.06278801724523
+10233,Mexico DF Taxi de Sitio,1237,4286,hospital,Hospital Pediatrico Legaria,194.66793691423746
+8641,Mexico DF Taxi Libre,827,2891,hospital,Hospital San Angel Inn,194.52776661697374
+6791,Mexico DF Radio Taxi,786,5023,hospital,Clínica Hospital 8 IMSS,194.32423558959769
+5633,Mexico DF Taxi de Sitio,779,1564,hospital,Hospital Medex,194.2785146810746
+8170,Mexico DF Taxi de Sitio,447,2174,hospital,Imss Villalonguin,193.96155753364167
+8276,Mexico DF Radio Taxi,765,5777,hospital,Instituto Nacional de Pediatria,193.91934515480688
+3954,Mexico DF Taxi Libre,1856,2026,hospital,Hospital Pediatrico Legaria,193.87759290933292
+10359,Mexico DF Taxi de Sitio,849,402,hospital,Podologia,193.53337726460251
+3059,Mexico DF UberXL,360,2931,hospital,Dentix,192.64922038692313
+1845,Mexico DF Taxi Libre,908,9075,hospital,Clínica de Especialidades "Churubusco",192.59926811075454
+9826,Mexico DF Taxi de Sitio,972,3315,hospital,Centro de Salud José Zozaya,191.77956174052048
+9066,Mexico DF Taxi de Sitio,662,1582,hospital,Hospital Ángeles Dalinde,191.72651378003488
+3765,Mexico DF Taxi de Sitio,732,773,hospital,Hospital Santa Monica,191.48307668783761
+10458,Mexico DF Taxi Libre,563,4128,hospital,Hospital Santa Elena, Angeles Roma,191.4126942199845
+7107,Mexico DF Taxi Libre,2143,9885,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",190.94854152738085
+3676,Mexico DF Taxi de Sitio,1457,5263,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,190.71105001307589
+4258,Mexico DF Taxi de Sitio,3430,16018,hospital,Clinica Del Carmen,190.3023481986009
+2300,Mexico DF Taxi Libre,2258,19535,hospital,Unidad de medicina física y rehabilitación norte,190.05781414855085
+2484,Mexico DF Taxi de Sitio,352,3933,hospital,Clínica de Colposcopia Fundación Cruz Talonia,189.89524409403975
+10625,Mexico DF Taxi Libre,980,9169,hospital,Hospital Punto Médico,189.67196483800237
+1103,Mexico DF Radio Taxi,17236,80860,hospital,Médica San Luis,188.94129695388139
+3333,Mexico DF Taxi de Sitio,667,3262,hospital,Hospital Azura Centro,188.62729341555112
+7584,Mexico DF Radio Taxi,1575,9397,hospital,Hospital Pediátrico Iztapalapa,188.25774198581385
+509,Mexico DF Taxi de Sitio,1716,12089,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,188.24263778349484
+4803,Mexico DF Taxi Libre,753,8201,hospital,Hospital Militar de Zona,188.21884604339263
+8868,Mexico DF Taxi de Sitio,1072,13645,hospital,Clinica Especializada en el Manejo Integral de la Diabetes Iztapalapa,188.01991543215584
+8995,Mexico DF Taxi de Sitio,378,1534,hospital,Hospital Medex,187.85845735700332
+9120,Mexico DF Radio Taxi,1189,3733,hospital,Hospital Pediátrico Peralvillo,187.57087628937228
+708,Mexico DF Radio Taxi,4907,14121,hospital,Clínica Hospital 8 IMSS,187.48441296271793
+509,Mexico DF Taxi de Sitio,1716,12089,hospital,Laboratorio Médico del Chopo,187.14555515545865
+5556,Mexico DF Taxi Libre,946,4339,hospital,Hospital Regional "Lic. Adolfo López Mateos",186.80756362967489
+9275,Mexico DF Taxi Libre,659,3380,hospital,Hospital Materno Infantil Cuautepec,186.61420294076234
+372,Mexico DF Taxi Libre,612,4036,hospital,Instituto Oftalmologia,186.3149598525261
+7925,Mexico DF Taxi Libre,1052,6315,hospital,Hospital Ángeles Dalinde,185.35768145826128
+9973,Mexico DF Taxi Libre,3033,652,hospital,Hospital Pediátrico Iztapalapa,184.44944914242075
+3736,Mexico DF Radio Taxi,2342,9264,hospital,Dentix,184.37252416522122
+6548,Mexico DF Taxi Libre,725,3154,hospital,Hospital De Cos,184.37046434141982
+213,Mexico DF Taxi de Sitio,1401,5846,hospital,Laboratorio Médico del Chopo,183.8902193592742
+8432,Mexico DF Taxi de Sitio,672,2325,hospital,Hospital Medex,183.83598758802731
+8212,Mexico DF Taxi Libre,2460,8551,hospital,Hospital Santa Monica,183.68312577193061
+8172,Mexico DF Taxi de Sitio,635,2105,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",183.57858808381837
+10458,Mexico DF Taxi Libre,563,4128,hospital,Médica San Luis,183.27704860647253
+7059,Mexico DF Taxi de Sitio,2575,17982,hospital,Hospital General Regional 2 IMSS,182.8139471574485
+2295,Mexico DF Radio Taxi,879,1641,hospital,Hospital Ángeles Dalinde,182.74428843168391
+9808,Mexico DF Taxi Libre,1253,9667,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,182.3698037147233
+6714,Mexico DF Taxi Libre,395,3047,hospital,Centro de Salud José Zozaya,182.24373346157159
+37,Mexico DF Taxi Libre,1076,5356,hospital,Imss Villalonguin,182.23010856651587
+8805,Mexico DF Taxi Libre,728,4009,hospital,Hospital Pediatrico Azcapotzalco,181.33535081319883
+6868,Mexico DF Radio Taxi,2209,8070,hospital,Hospital Pediátrico de la Cruz Blanca Neutral,181.0635765140876
+3826,Mexico DF Taxi de Sitio,408,2197,hospital,Imss Villalonguin,180.74141020375146
+2284,Mexico DF Taxi Libre,944,2824,hospital,1ro de Mayo,180.70565505272458
+7373,Mexico DF Taxi Libre,849,4514,hospital,SUMEDIC ambulancias,180.02895722218764
+9961,Mexico DF Taxi Libre,324,2103,hospital,Instituto Nacional de Higiene,179.91493382518823
+974,Mexico DF Taxi Libre,1263,6303,hospital,Hospital General IMSS Coyoacán,179.57157968127558
+1299,Mexico DF Taxi de Sitio,8083,677,hospital,Centro Hospitalario Sanatorio Durango,179.52271263735531
+7038,Mexico DF Radio Taxi,528,807,hospital,Hospital Ángeles Dalinde,178.49199448115735
+5272,Mexico DF Taxi de Sitio,608,2248,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",177.74236269186235
+6791,Mexico DF Radio Taxi,786,5023,hospital,Clínica 4 IMSS - Ginecología y Obstetricia,177.47645822559883
+5583,Mexico DF Radio Taxi,9388,33034,hospital,Dentix,177.36425644941028
+5782,Mexico DF Taxi de Sitio,502,1880,hospital,central de emergencias,177.29862635390162
+10448,Mexico DF Taxi Libre,623,5135,hospital,Hospital Star Médica Roma,177.28693453815674
+7994,Mexico DF Taxi Libre,1778,2804,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,177.25441815637799
+8742,Mexico DF Taxi Libre,688,4194,hospital,Hospital Pediátrico Peralvillo,175.65934125509864
+1183,Mexico DF Taxi Libre,1495,10899,hospital,Unidad de medicina física y rehabilitación norte,175.47273720579639
+6950,Mexico DF Taxi Libre,422,1708,hospital,Hospital vicentino y casa hogar,174.83900872436681
+10458,Mexico DF Taxi Libre,563,4128,hospital,Hospital Medex,174.58434149416473
+8255,Mexico DF Radio Taxi,2332,5563,hospital,Hospital San Angel Inn,173.06982398194287
+8574,Mexico DF Taxi Libre,512,1598,hospital,Hospital Boutique,172.56064884607409
+9183,Mexico DF Radio Taxi,680,637,hospital,Médica San Luis,172.5060159363388
+7176,Mexico DF Taxi Libre,5184,14677,hospital,Hospital vicentino y casa hogar,172.31078051782939
+1477,Mexico DF Taxi Libre,360,2178,hospital,Issste Clinica Medico Familiar Xochimilco,172.02083387209541
+9725,Mexico DF Taxi de Sitio,536,1573,hospital,Hospital De Cos,171.95645047675831
+3196,Mexico DF Taxi Libre,1204,2384,hospital,Instituto Nacional de Higiene,171.86672203376926
+7911,Mexico DF Radio Taxi,3056,16350,hospital,Gemsi,171.82860128284389
+3356,Mexico DF Taxi de Sitio,965,7274,hospital,Hospital Ángeles Dalinde,171.51246855028342
+8436,Mexico DF Taxi de Sitio,378,945,hospital,Hospital Medex,171.41790383220143
+8976,Mexico DF Taxi de Sitio,438,243,hospital,Médica San Luis,171.16364597119039
+5686,Mexico DF Taxi de Sitio,682,7612,hospital,Hospital Santa Monica,171.07623029742791
+10616,Mexico DF Taxi Libre,854,3707,hospital,Hospital de la Divina Providencia,170.98597718464808
+1648,Mexico DF Taxi de Sitio,1567,5010,hospital,Hospital De Cos,170.92130882931622
+7911,Mexico DF Radio Taxi,3056,16350,hospital,Grupo de Especialidades Médicas Santa Inés,170.55385557233319
+8436,Mexico DF Taxi de Sitio,378,945,hospital,Médica San Luis,170.19664441536875
+3734,Mexico DF Taxi de Sitio,4563,5989,hospital,Hospital Punto Médico,170.18997932446996
+6941,Mexico DF Taxi Libre,779,5883,hospital,Vidatox,170.18766550423055
+9401,Mexico DF Taxi Libre,194,1399,hospital,Hospital Materno Infantil Magdalena Contreras,169.5187648420453
+9065,Mexico DF Radio Taxi,1678,7480,hospital,Hospital Materno Infantil Magdalena Contreras,169.51857025224788
+121,Mexico DF Radio Taxi,487,7173,hospital,Centro de salud Palo Alto,168.66378759046293
+4902,Mexico DF Taxi de Sitio,1800,6917,hospital,Centro Hospitalario Sanatorio Durango,168.59442755609041
+8845,Mexico DF Taxi Libre,1319,12330,hospital,Hospital de avez FMVZ- UNAM,168.15867872192632
+8995,Mexico DF Taxi de Sitio,378,1534,hospital,Médica San Luis,168.05911575361111
+4074,Mexico DF Taxi Libre,328,3399,hospital,ISSSTE Clinica de Medicina Familiar,167.80236032527941
+9914,Mexico DF Radio Taxi,750,7714,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,166.86013954879004
+5633,Mexico DF Taxi de Sitio,779,1564,hospital,Hospital Star Médica Roma,165.10543176939132
+9875,Mexico DF Taxi de Sitio,2367,13334,hospital,Hospital Ángeles Dalinde,164.99657105581502
+1329,Mexico DF Radio Taxi,425,2128,hospital,Hospital Ángeles Dalinde,164.99239480461051
+9517,Mexico DF Taxi Libre,334,1448,hospital,Centro de Salud Cardiel,164.9680057783863
+9280,Mexico DF Radio Taxi,414,929,hospital,Centro Hospitalario Sanatorio Durango,164.74136387595593
+3774,Mexico DF Taxi de Sitio,1806,9504,hospital,Hospital Regional "Lic. Adolfo López Mateos",164.48591923890331
+6505,Mexico DF Taxi Libre,1087,5169,hospital,Hospital Los Ángeles Metropolitano,164.18365456358836
+253,Mexico DF Radio Taxi,4761,4778,hospital,Hospital Star Médica Roma,162.98299830959397
+6266,Mexico DF Taxi Libre,3556,4078,hospital,Hospital Pediátrico Iztapalapa,162.79184244441936
+4284,Mexico DF Taxi Libre,2497,9711,hospital,Vidatox,162.56391752106762
+3867,Mexico DF Taxi de Sitio,1456,12303,hospital,Hospital Star Médica Roma,162.13096697899917
+10318,Mexico DF Taxi de Sitio,2501,8067,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,162.07016280415272
+5841,Mexico DF Radio Taxi,532,4027,hospital,Hospital General Xoco,161.75538563585522
+6401,Mexico DF UberX,5969,19575,hospital,Centro de salud Palo Alto,161.4768815091804
+3957,Mexico DF Taxi Libre,554,2784,hospital,Instituto Nacional de Higiene,161.19612610878511
+3088,Mexico DF Taxi Libre,8486,19790,hospital,ISSSTE Clinica de Medicina Familiar,161.00794105450322
+9133,Mexico DF Taxi de Sitio,154,570,hospital,Hospital Tehuantepec,160.76713882779387
+974,Mexico DF Taxi Libre,1263,6303,hospital,Hospital General Regional 2 IMSS,160.63374232923064
+5216,Mexico DF Radio Taxi,1159,5835,hospital,Clínica 4 IMSS - Ginecología y Obstetricia,160.37916512312009
+8172,Mexico DF Taxi de Sitio,635,2105,hospital,Imss Villalonguin,160.37331294559092
+5845,Mexico DF Taxi de Sitio,2608,15760,hospital,Hospital Boutique,160.27511581239625
+3930,Mexico DF Taxi Libre,1005,2287,hospital,Centro Hospitalario Sanatorio Durango,160.18922437791136
+10348,Mexico DF Taxi Libre,906,6811,hospital,Centro de Salud T-II Ramos Millan,159.9380708926065
+6495,Mexico DF Taxi Libre,475,2708,hospital,Centro de Salud José Zozaya,159.70964911983776
+7216,Mexico DF Taxi Libre,338,1769,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,159.67976715270251
+6731,Mexico DF Taxi Libre,3998,29242,hospital,Centro de Salud T-III Dr. David Fragoso,159.56174648909885
+3356,Mexico DF Taxi de Sitio,965,7274,hospital,Hospital Los Ángeles Metropolitano,159.36762284736707
+2089,Mexico DF Taxi de Sitio,2057,11614,hospital,Hospital Pediátrico Iztapalapa,158.77261905431763
+7402,Mexico DF Taxi Libre,716,4278,hospital,Hospital Pediatrico de Azcapotzalco,158.45170997710935
+7388,Mexico DF Taxi Libre,1051,4411,hospital,Hospital Pediatrico de Azcapotzalco,158.45016000631574
+6641,Mexico DF Taxi de Sitio,119,1528,hospital,Hospital General IMSS Coyoacán,157.59765553309146
+9875,Mexico DF Taxi de Sitio,2367,13334,hospital,Hospital Los Ángeles Metropolitano,157.53336025604878
+8391,Mexico DF Taxi de Sitio,459,3696,hospital,Hospital Los Ángeles Metropolitano,157.52216256144058
+8695,Mexico DF Taxi Libre,5918,16717,hospital,Hospital Materno Infantil Magdalena Contreras,157.01828593111412
+2267,Mexico DF Taxi de Sitio,1468,9745,hospital,Hospital General,156.82865151300715
+154,Mexico DF Taxi Libre,597,4047,hospital,Hospital Pediatrico Legaria,156.3558837936838
+7305,Mexico DF Taxi Libre,411,2508,hospital,Centro de Salud Cardiel,156.21254300270277
+4873,Mexico DF Taxi de Sitio,888,4282,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,156.10281056185269
+4014,Mexico DF Taxi Libre,2722,13035,hospital,Hospital de la Divina Providencia,156.09351643535146
+1095,Mexico DF Radio Taxi,1291,394,hospital,Centro Hospitalario Sanatorio Durango,155.08692679321507
+8592,Mexico DF Taxi de Sitio,252,1051,hospital,Médica San Luis,154.4536238179642
+4854,Mexico DF Radio Taxi,6454,12962,hospital,Hospital Punto Médico,153.54554040983871
+1121,Mexico DF Taxi Libre,505,4030,hospital,Hospital de la Divina Providencia,153.36729809543641
+2963,Mexico DF Taxi de Sitio,952,5350,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,152.52046216797649
+204,Mexico DF Taxi Libre,992,5672,hospital,Centro de,152.31662545168331
+5626,Mexico DF Taxi de Sitio,619,778,hospital,Hospital Tehuantepec,152.27565712755651
+10553,Mexico DF Radio Taxi,533,1777,hospital,Santa Coleta,152.13168649092006
+991,Mexico DF Taxi Libre,80,342,hospital,SUMEDIC ambulancias,151.39866703324293
+7176,Mexico DF Taxi Libre,5184,14677,hospital,Hospital San Angel Inn,151.27487960724017
+7442,Mexico DF Taxi Libre,812,3743,hospital,Hospital Boutique,149.89538583440034
+7092,Mexico DF Taxi Libre,412,1760,hospital,Centro de Salud Cardiel,149.85995577385521
+9174,Mexico DF Taxi Libre,9157,7105,hospital,Hospital Materno Infantil Magdalena Contreras,149.72088619928471
+8113,Mexico DF Taxi de Sitio,766,5013,hospital,Clínica de Colposcopia Fundación Cruz Talonia,149.59560206466222
+5039,Mexico DF Taxi de Sitio,1017,5248,hospital,Hospital Los Ángeles Metropolitano,149.16403596107585
+7099,Mexico DF Taxi Libre,547,2842,hospital,Instituto Nacional de Higiene,148.99054228020128
+5039,Mexico DF Taxi de Sitio,1017,5248,hospital,Hospital Ángeles Dalinde,148.94117304602707
+5221,Mexico DF Taxi Libre,992,3755,hospital,Issste Clinica Medico Familiar Xochimilco,148.55323213353904
+2267,Mexico DF Taxi de Sitio,1468,9745,hospital,Hospital General Dr. Gregorio Salas Flores,148.5483591668756
+6743,Mexico DF Taxi Libre,508,2596,hospital,Hospital Pediátrico Iztacalco,148.21666491642631
+9042,Mexico DF Radio Taxi,474,2960,hospital,Hospital Azura Centro,148.11429942695904
+10262,Mexico DF Radio Taxi,930,2291,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,147.20607447982755
+6950,Mexico DF Taxi Libre,422,1708,hospital,Hospital San Angel Inn,146.71436643468132
+2038,Mexico DF Radio Taxi,11125,62441,hospital,Laboratorio Quest,146.2929713327232
+5381,Mexico DF Taxi Libre,1659,4223,hospital,Issste Clinica Medico Familiar Xochimilco,146.15013676497162
+8759,Mexico DF Taxi Libre,284,1547,hospital,Clínica Hospital 8 IMSS,145.67975948594048
+665,Mexico DF Taxi Libre,898,4712,hospital,Santa Coleta,145.13133961374987
+3739,Mexico DF Taxi de Sitio,1389,6953,hospital,IMSS Hospital General de Zona 1-A Dr. Rodolfo Antonio de Mucha Macias "Venados",145.01529316360296
+9380,Mexico DF Radio Taxi,951,4395,hospital,Instituto Oftalmologia,144.62749965327416
+8369,Mexico DF Taxi Libre,3275,21894,hospital,Clínica 4 IMSS - Ginecología y Obstetricia,143.95729019054315
+2233,Mexico DF Taxi Libre,524,2786,hospital,Issste Clinica Medico Familiar Xochimilco,143.91780708845189
+9728,Mexico DF Taxi de Sitio,337,1182,hospital,Hospital Los Ángeles Metropolitano,143.90284738575392
+8330,Mexico DF Radio Taxi,798,133,hospital,Centro Hospitalario Sanatorio Durango,143.23126718622754
+2625,Mexico DF Taxi Libre,6834,19153,hospital,Dentix,143.00782350585592
+7972,Mexico DF Taxi de Sitio,2654,17408,hospital,Hospital General IMSS Coyoacán,142.55643194828417
+6641,Mexico DF Taxi de Sitio,119,1528,hospital,Hospital General Regional 2 IMSS,141.36261210539215
+4952,Mexico DF Taxi de Sitio,892,4359,hospital,Hospital Pediatrico Legaria,141.32010392783133
+2002,Mexico DF Taxi Libre,3017,8218,hospital,Hospital Consultores Ambientales, S.A. De C.V.,140.8461006327754
+1434,Mexico DF Taxi Libre,802,3381,hospital,Médica Coapa,140.54395140290305
+9070,Mexico DF Taxi de Sitio,635,2228,hospital,Hospital Star Médica Roma,140.36927424770872
+6640,Mexico DF Radio Taxi,1197,5500,hospital,Hospital Tehuantepec,139.66216152503327
+5633,Mexico DF Taxi de Sitio,779,1564,hospital,Médica San Luis,138.80663365962343
+9183,Mexico DF Radio Taxi,680,637,hospital,Hospital Medex,138.60876937009593
+8983,Mexico DF Taxi de Sitio,262,728,hospital,Hospital Tehuantepec,138.1843589743988
+7751,Mexico DF UberX,2498,304,hospital,Hospital Churubusco,137.13820845004599
+5635,Mexico DF Taxi de Sitio,361,1322,hospital,Hospital Star Médica Roma,135.85874796741092
+9090,Mexico DF Taxi Libre,449,1668,hospital,Médica Coapa,135.45270319967713
+5983,Mexico DF Taxi de Sitio,5031,10303,hospital,Hospital Los Ángeles Metropolitano,134.14819311336902
+5121,Mexico DF Radio Taxi,1499,4598,hospital,Hospital Tehuantepec,134.07783726969444
+10258,Mexico DF Taxi Libre,757,5105,hospital,Hospital Ángeles Dalinde,133.14753258561828
+7888,Mexico DF Taxi de Sitio,957,5881,hospital,Ortopedia Flores,133.08676470592331
+849,Mexico DF Taxi de Sitio,2880,9980,hospital,Vista Diagnostica,133.04402644755601
+8559,Mexico DF Radio Taxi,339,904,hospital,Hospital Azura Centro,132.52586112085964
+8212,Mexico DF Taxi Libre,2460,8551,hospital,Hospital Angeles Santa Monica,131.20324233968282
+4223,Mexico DF Taxi Libre,1360,6460,hospital,Médica Coapa,130.5247642017132
+10690,Mexico DF Taxi Libre,3133,10385,hospital,Hospital Militar,129.6701236596173
+1121,Mexico DF Taxi Libre,505,4030,hospital,Ampl. Hospital de la Divina Providencia,129.56834188059139
+7437,Mexico DF Taxi Libre,1567,9716,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,129.27118530143198
+7888,Mexico DF Taxi de Sitio,957,5881,hospital,Ortopedia Mitla 4,128.54285547221735
+3734,Mexico DF Taxi de Sitio,4563,5989,hospital,Hospital Consultores Ambientales, S.A. De C.V.,128.17837070055535
+8362,Mexico DF Taxi de Sitio,648,7575,hospital,Hospital Santa Monica,128.01851879111902
+9577,Mexico DF Taxi de Sitio,276,904,hospital,Hospital Tehuantepec,127.90862652496841
+5271,Mexico DF Taxi Libre,710,3264,hospital,Hospital Materno Infantil Xochimilco,126.74222029485128
+389,Mexico DF Taxi Libre,1759,12001,hospital,Hospital Boutique,126.69080152596452
+777,Mexico DF Taxi de Sitio,2444,10236,hospital,Clínica 4 IMSS - Ginecología y Obstetricia,126.6172128280684
+10430,Mexico DF Taxi Libre,1123,6451,hospital,Hospital María José,126.46096820621899
+9240,Mexico DF Taxi Libre,702,3032,hospital,Clinica Imss,126.25233258512529
+5215,Mexico DF Radio Taxi,3570,6165,hospital,Hospital General Xoco,125.86957960250001
+2867,Mexico DF Taxi Libre,1566,6457,hospital,Clínica Hospital 8 IMSS,125.61043570983934
+575,Mexico DF Taxi Libre,1965,5328,hospital,Hospital Ángeles Dalinde,123.25384164613865
+6683,Mexico DF Radio Taxi,678,1528,hospital,Santa Coleta,122.60377930494202
+8353,Mexico DF Taxi de Sitio,890,4265,hospital,Ortopedia Mitla 4,122.38077046297042
+287,Mexico DF Taxi Libre,736,2317,hospital,Centro de Salud Dr. D. Orvañanos,122.25522179656782
+1878,Mexico DF Taxi Libre,574,2687,hospital,Hospital Pediátrico Iztacalco,122.12681037756063
+8761,Mexico DF Taxi Libre,428,1857,hospital,Clinica Imss,121.91202723484778
+8070,Mexico DF Taxi de Sitio,4577,18710,hospital,Vista Diagnostica,121.71577933770489
+2756,Mexico DF Radio Taxi,237,963,hospital,Dentix,121.64385692479188
+9166,Mexico DF Taxi de Sitio,2052,11348,hospital,Hospital San Angel Inn,120.17399505660632
+4705,Mexico DF Radio Taxi,1170,35412,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",120.11759721348474
+1492,Mexico DF Radio Taxi,1083,4247,hospital,Dentix,119.99646761531048
+769,Mexico DF Radio Taxi,656,4468,hospital,Dentix,119.62433895340563
+2499,Mexico DF Taxi de Sitio,792,1980,hospital,Hospital General Rubén Leñero,119.18898677819459
+3740,Mexico DF Taxi de Sitio,368,1703,hospital,Hospital Santa Monica,119.15936035108926
+9485,Mexico DF Taxi Libre,517,2792,hospital,Instituto Nacional de Higiene,118.86018602954383
+2002,Mexico DF Taxi Libre,3017,8218,hospital,Hospital Santa Elena, Angeles Roma,118.76407709384905
+6462,Mexico DF Radio Taxi,1276,10522,hospital,Instituto Nacional de Pediatria,118.01928260653582
+10318,Mexico DF Taxi de Sitio,2501,8067,hospital,Laboratorio Médico del Chopo,117.72400916937362
+2858,Mexico DF Radio Taxi,5262,6390,hospital,Dentix,117.34149392335645
+7972,Mexico DF Taxi de Sitio,2654,17408,hospital,Hospital General Regional 2 IMSS,117.22531084479267
+9471,Mexico DF Taxi de Sitio,483,7365,hospital,Hospital Santa Monica,117.16321811349252
+9070,Mexico DF Taxi de Sitio,635,2228,hospital,Hospital De Cos,117.10918946344835
+1686,Mexico DF Taxi Libre,620,2749,hospital,Hospital Pediatrico Legaria,116.97587557396396
+8462,Mexico DF Taxi Libre,3336,8706,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,116.71717453313993
+8258,Mexico DF Radio Taxi,2899,3504,hospital,Dentix,116.01420447664935
+7388,Mexico DF Taxi Libre,1051,4411,hospital,Hospital Pediatrico Azcapotzalco,115.98187967932344
+1038,Mexico DF Taxi Libre,5873,19344,hospital,Centro de Salud Dr. D. Orvañanos,115.90272886873345
+8353,Mexico DF Taxi de Sitio,890,4265,hospital,Ortopedia Flores,115.80537894271954
+8592,Mexico DF Taxi de Sitio,252,1051,hospital,Hospital Star Médica Roma,115.19774589128029
+7444,Mexico DF Taxi Libre,652,2514,hospital,Instituto Nacional de Higiene,115.13575169293212
+5629,Mexico DF Taxi Libre,1478,6322,hospital,Unidad de medicina física y rehabilitación norte,114.57002789314811
+6817,Mexico DF Taxi de Sitio,2051,5095,hospital,Hospital Ángeles Dalinde,114.26683541831075
+6036,Mexico DF Taxi de Sitio,2078,8201,hospital,Hospital Azura Centro,114.12929759486877
+8591,Mexico DF Taxi Libre,773,4034,hospital,Hospital Boutique,113.80470164276981
+5653,Mexico DF Taxi Libre,1234,2459,hospital,Hospital Materno Infantil Magdalena Contreras,113.77670803873916
+1469,Mexico DF Taxi Libre,676,3925,hospital,Hospital Materno Infantil Xochimilco,113.54250900736866
+3571,Mexico DF Radio Taxi,410,1407,hospital,Dentix,113.35477167710414
+8181,Mexico DF Taxi de Sitio,1579,8203,hospital,Hospital María José,112.35408074287213
+8857,Mexico DF Taxi Libre,15490,1460,hospital,SUMEDIC ambulancias,111.42664469456776
+9819,Mexico DF Taxi Libre,908,5027,hospital,Clínica Hospital 8 IMSS,111.26558744272378
+6615,Mexico DF Taxi Libre,1980,5132,hospital,Hospital Ángeles Dalinde,110.72386079229685
+1095,Mexico DF Radio Taxi,1291,394,hospital,Hospital María José,110.69852706258065
+3581,Mexico DF Taxi Libre,1643,5839,hospital,Hospital Pediatrico Azcapotzalco,110.37816818304468
+9725,Mexico DF Taxi de Sitio,536,1573,hospital,Hospital Star Médica Roma,109.25442207907193
+3581,Mexico DF Taxi Libre,1643,5839,hospital,Hospital Pediatrico de Azcapotzalco,108.88656056917688
+6459,Mexico DF Radio Taxi,6077,8976,hospital,Dentix,108.82211234411068
+8778,Mexico DF Taxi Libre,410,2411,hospital,Clinica Imss,108.13069050291502
+3406,Mexico DF Taxi Libre,366,1806,hospital,Hospital Churubusco,108.0619192711853
+708,Mexico DF Radio Taxi,4907,14121,hospital,Clínica 4 IMSS - Ginecología y Obstetricia,107.88798767142167
+1480,Mexico DF Taxi Libre,242,2215,hospital,Hospital Materno Infantil Xochimilco,107.20735148777119
+1709,Mexico DF Taxi de Sitio,2520,13238,hospital,Hospital Churubusco,106.98539747343102
+1648,Mexico DF Taxi de Sitio,1567,5010,hospital,Hospital Star Médica Roma,106.88047156685103
+4999,Mexico DF Taxi de Sitio,1377,3039,hospital,Podologia,106.6154242732654
+2122,Mexico DF Taxi Libre,836,4216,hospital,Issste Clinica Medico Familiar Xochimilco,106.50750253480297
+2494,Mexico DF Taxi de Sitio,308,1791,hospital,Imss Villalonguin,106.38376361304215
+5435,Mexico DF Taxi Libre,969,954,hospital,Hospital Pediatrico Azcapotzalco,105.80671906088804
+4873,Mexico DF Taxi de Sitio,888,4282,hospital,Laboratorio Médico del Chopo,105.43716288582397
+9724,Mexico DF Taxi Libre,1193,4193,hospital,Hospital Carso 3,104.90639023202854
+5435,Mexico DF Taxi Libre,969,954,hospital,Hospital Pediatrico de Azcapotzalco,104.62072775134114
+10169,Mexico DF Taxi de Sitio,1599,7357,hospital,Hospital Star Médica Roma,103.94577771330468
+3734,Mexico DF Taxi de Sitio,4563,5989,hospital,Hospital Santa Elena, Angeles Roma,103.18942149956155
+3699,Mexico DF Taxi de Sitio,805,8510,hospital,Clínica de Colposcopia Fundación Cruz Talonia,103.05470367164803
+3305,Mexico DF Taxi de Sitio,599,2142,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",102.73677522774491
+9970,Mexico DF Taxi Libre,194,1620,hospital,Hospital Pediátrico Iztapalapa,99.999482392062632
+8608,Mexico DF Taxi Libre,351,1793,hospital,Clinica Imss,99.75632783109252
+2112,Mexico DF Taxi Libre,574,2871,hospital,Hospital Materno Infantil Xochimilco,97.868181017239678
+1739,Mexico DF Taxi de Sitio,865,2444,hospital,Instituto Nacional de Higiene,97.763892851707055
+5199,Mexico DF Taxi de Sitio,1718,7168,hospital,Hospital Ángeles Dalinde,96.991420288376816
+10554,Mexico DF Taxi de Sitio,1153,4208,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,96.622708713807612
+2518,Mexico DF Radio Taxi,3378,10597,hospital,Santa Teresita,96.307524728793211
+1299,Mexico DF Taxi de Sitio,8083,677,hospital,Hospital María José,93.92185120779169
+8072,Mexico DF Taxi Libre,311,1130,hospital,Hospital General Enrique Cabrera,93.617628823302098
+2971,Mexico DF Taxi Libre,282,1387,hospital,Hospital Pediatrico de Azcapotzalco,93.512101273898779
+2451,Mexico DF Taxi de Sitio,6777,16636,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",92.993622116912562
+9053,Mexico DF Taxi Libre,1024,4955,hospital,Hospital Materno Infantil Magdalena Contreras,92.914249784965207
+2971,Mexico DF Taxi Libre,282,1387,hospital,Hospital Pediatrico Azcapotzalco,92.645550714584417
+8411,Mexico DF Taxi de Sitio,1483,6022,hospital,Clinica Imss,91.659388475240561
+3531,Mexico DF Taxi de Sitio,848,6255,hospital,Hospital Pediátrico Coyoacán,91.471038999239624
+9507,Mexico DF Taxi de Sitio,2140,6291,hospital,Unidad de medicina física y rehabilitación norte,91.1018616912894
+2994,Mexico DF Radio Taxi,589,4684,hospital,Vidatox,90.043960800467616
+8433,Mexico DF Taxi Libre,766,3867,hospital,Hospital General Rubén Leñero,90.015910549536031
+8416,Mexico DF Taxi de Sitio,1717,7843,hospital,Hospital Regional "Lic. Adolfo López Mateos",89.821439776033074
+7202,Mexico DF Taxi Libre,2004,11803,hospital,Hospital Ángeles Dalinde,89.627225338733737
+7098,Mexico DF UberX,3124,7612,hospital,Clinica Especializada en el Manejo Integral de la Diabetes Iztapalapa,89.398908175799434
+5635,Mexico DF Taxi de Sitio,361,1322,hospital,Médica San Luis,89.195792628805989
+9721,Mexico DF Taxi de Sitio,457,1835,hospital,Hospital Medex,88.779692372463472
+3887,Mexico DF Taxi Libre,2896,6064,hospital,Hospital Pediatrico de Azcapotzalco,87.702686409458082
+1178,Mexico DF Taxi de Sitio,3255,38221,hospital,Instituto Nacional de Higiene,87.524216863668812
+3887,Mexico DF Taxi Libre,2896,6064,hospital,Hospital Pediatrico Azcapotzalco,87.29354873362179
+1726,Mexico DF Taxi Libre,1386,3855,hospital,Hospital Materno Infantil Xochimilco,86.206523958881434
+8746,Mexico DF Taxi Libre,196,801,hospital,Clinica Del Carmen,85.606967256189918
+4841,Mexico DF Taxi Libre,652,3522,hospital,Hospital Materno Infantil Xochimilco,85.261199461616258
+9800,Mexico DF Taxi Libre,252,1600,hospital,Hospital General Xoco,85.226639584806662
+2930,Mexico DF Taxi de Sitio,2290,18493,hospital,Hospital Materno Infantil Inguarán,84.216916174530112
+6701,Mexico DF Taxi Libre,2412,6520,hospital,Centro Hospitalario Sanatorio Durango,84.102196082483417
+194,Mexico DF UberX,161,1922,hospital,ISSSTE,83.849524173297297
+9742,Mexico DF Taxi Libre,2556,11336,hospital,Podologia,83.422413602339532
+9730,Mexico DF Taxi Libre,2556,11336,hospital,Podologia,83.422413602339532
+4167,Mexico DF Taxi de Sitio,5185,37095,hospital,Clinica Medica Maternidad Dr. Adrian,82.830159420161678
+2036,Mexico DF Taxi de Sitio,1869,9683,hospital,Hospital Medex,82.783750311283384
+1795,Mexico DF Taxi Libre,367,3013,hospital,Hospital Dermatológico Ladislao Pascua,81.883336663269716
+3488,Mexico DF Taxi de Sitio,1326,10431,hospital,Hospital General Xoco,80.307709068139729
+7925,Mexico DF Taxi Libre,1052,6315,hospital,Hospital Los Ángeles Metropolitano,80.069095358262061
+9672,Mexico DF Taxi Libre,548,3427,hospital,Hospital Pediátrico Iztapalapa,79.212464465308088
+9349,Mexico DF Taxi Libre,430,1760,hospital,Médica Coapa,78.500682305196889
+3508,Mexico DF Taxi de Sitio,297,1890,hospital,Imss Villalonguin,77.20821237455776
+3501,Mexico DF Taxi de Sitio,297,1890,hospital,Imss Villalonguin,77.20821237455776
+5109,Mexico DF Taxi Libre,2209,11251,hospital,Hospital General Xoco,77.043906301613262
+8757,Mexico DF Taxi Libre,396,1602,hospital,Clinica Del Carmen,74.14960138762055
+2628,Mexico DF Taxi Libre,2106,4317,hospital,Hospital General Gustavo Baz,74.034092792885474
+7972,Mexico DF Taxi de Sitio,2654,17408,hospital,Hospital de traumatología y ortopedia No 2 "villa coapa",73.997155842349443
+592,Mexico DF Taxi Libre,8372,5296,hospital,1ro de Mayo,73.552922584365589
+9078,Mexico DF Taxi de Sitio,2116,6570,hospital,Clínica 4 IMSS - Ginecología y Obstetricia,73.218891236284037
+4029,Mexico DF Taxi de Sitio,303,2030,hospital,Hospital Ángeles Dalinde,72.319052733088952
+9984,Mexico DF Taxi de Sitio,1571,3122,hospital,Unidad de medicina física y rehabilitación norte,71.793958275552299
+8391,Mexico DF Taxi de Sitio,459,3696,hospital,Hospital Ángeles Dalinde,71.415223109593938
+2635,Mexico DF Taxi de Sitio,432,2446,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",71.403050582548616
+10092,Mexico DF Taxi de Sitio,6415,11978,hospital,Centro de Salud Dr. D. Orvañanos,70.222195587135985
+414,Mexico DF Radio Taxi,1989,15146,hospital,Hospital Pediátrico Iztacalco,70.121525156536137
+4185,Mexico DF Taxi Libre,9640,25789,hospital,Hospital Regional "Lic. Adolfo López Mateos",69.984363849569206
+9728,Mexico DF Taxi de Sitio,337,1182,hospital,Hospital Ángeles Dalinde,69.869407405393005
+1872,Mexico DF Taxi de Sitio,1389,12628,hospital,Vista Diagnostica,69.16851603750672
+8072,Mexico DF Taxi Libre,311,1130,hospital,Hospital General Enrique Cabrera,68.806058536514556
+2533,Mexico DF Taxi Libre,904,6914,hospital,IMSS Hospital General de Zona 1-A Dr. Rodolfo Antonio de Mucha Macias "Venados",68.356224950610397
+10554,Mexico DF Taxi de Sitio,1153,4208,hospital,Laboratorio Médico del Chopo,67.769897438187598
+1003,Mexico DF Radio Taxi,369,1127,hospital,Santa Coleta,67.438556262085015
+8455,Mexico DF Radio Taxi,1984,4608,hospital,Hospital Regional "Lic. Adolfo López Mateos",67.334059673238215
+1214,Mexico DF Taxi Libre,333,1112,hospital,Hospital Santiago Apóstol de Cuautepec,67.219278837954377
+213,Mexico DF Taxi de Sitio,1401,5846,hospital,Centro Comunitario de Salud Mental Cuauhtémoc,66.561831031152281
+8610,Mexico DF Taxi Libre,1541,5573,hospital,Unidad de medicina física y rehabilitación norte,66.461238710455746
+175,Mexico DF Taxi Libre,1104,3402,hospital,Hospital General Dr. Gregorio Salas Flores,66.358720695767758
+7273,Mexico DF Taxi Libre,1412,3230,hospital,Hospital de la Divina Providencia,65.93000123736644
+6177,Mexico DF Radio Taxi,10437,8154,hospital,Hospital Angeles Santa Monica,65.859057235578533
+8932,Mexico DF Taxi de Sitio,4772,8977,hospital,Hospital Regional "Lic. Adolfo López Mateos",65.562757652286152
+2823,Mexico DF Radio Taxi,1299,8947,hospital,Hospital Angeles Santa Monica,65.444511737488426
+4290,Mexico DF Taxi Libre,1305,5287,hospital,Hospital General Rubén Leñero,65.258512300960021
+9558,Mexico DF Taxi Libre,3068,11970,hospital,Hospital Militar de Zona Constituyentes,63.687190980044818
+1624,Mexico DF Radio Taxi,5031,16001,hospital,Dentix,63.117952678018959
+1595,Mexico DF Taxi de Sitio,615,3215,hospital,Hospital Pediátrico de la Cruz Blanca Neutral,62.387904501474232
+8102,Mexico DF Taxi Libre,1622,6504,hospital,Centro de Salud,62.370200247702179
+8077,Mexico DF Taxi Libre,1622,6504,hospital,Centro de Salud,62.370200247702179
+5708,Mexico DF Taxi de Sitio,1400,4847,hospital,Hospital Regional "Lic. Adolfo López Mateos",60.332770740523671
+6993,Mexico DF Taxi de Sitio,3469,11799,hospital,IMSS Hospital General de Zona 1-A Dr. Rodolfo Antonio de Mucha Macias "Venados",60.002149614167749
+3781,Mexico DF Taxi de Sitio,8669,7369,hospital,Instituto Nacional de Psiquiatría,59.590406225668531
+738,Mexico DF Taxi Libre,241,976,hospital,Hospital San Angel Inn,58.154303188365184
+974,Mexico DF Taxi Libre,1263,6303,hospital,IMSS HGR 2/URGENCIAS,58.114119160376397
+1374,Mexico DF Taxi Libre,794,3680,hospital,Clínica Mexicana de Autismo y Alteraciones del Desarrollo,57.593443412166692
+175,Mexico DF Taxi Libre,1104,3402,hospital,Hospital General,56.817741365495571
+6701,Mexico DF Taxi Libre,2412,6520,hospital,Hospital María José,56.68213406433253
+3724,Mexico DF UberX,6663,14200,hospital,Hospital Militar de Zona Constituyentes,56.33439398477752
+7873,Mexico DF Radio Taxi,2336,9386,hospital,Hospital Azura Centro,55.894749760291283
+1067,Mexico DF Taxi Libre,602,2775,hospital,Médica Coapa,53.644964032445095
+5257,Mexico DF Radio Taxi,1512,10403,hospital,Clínica médica.,52.614488078701278
+9248,Mexico DF Taxi de Sitio,420,1526,hospital,Hospital Tehuantepec,52.41758644028846
+3747,Mexico DF Taxi de Sitio,2749,9887,hospital,Hospital Materno Infantil Magdalena Contreras,52.30221155209091
+7918,Mexico DF Taxi Libre,683,4846,hospital,Hospital General Enrique Cabrera,52.124950565829224
+681,Mexico DF Taxi Libre,139,897,hospital,Hospital Tehuantepec,51.79074384211264
+777,Mexico DF Taxi de Sitio,2444,10236,hospital,Clínica Hospital 8 IMSS,51.161905182490003
+9369,Mexico DF Taxi de Sitio,611,3881,hospital,Centro de Salud,49.553249715267803
+6505,Mexico DF Taxi Libre,1087,5169,hospital,Hospital Ángeles Dalinde,49.493247311528016
+6821,Mexico DF Radio Taxi,5587,1545,hospital,Dentix,48.94394533284008
+8369,Mexico DF Taxi Libre,3275,21894,hospital,Clínica Hospital 8 IMSS,48.054320672692619
+3952,Mexico DF Taxi de Sitio,1630,5043,hospital,Clinica Imss,47.399620168713369
+9035,Mexico DF Taxi de Sitio,493,352,hospital,Centro de Salud,46.891547399709474
+10320,Mexico DF Taxi de Sitio,1714,10886,hospital,Hospital Regional "Lic. Adolfo López Mateos",46.5557919696071
+452,Mexico DF Taxi de Sitio,894,4409,hospital,Centro de Salud Dr. D. Orvañanos,46.092225298524866
+10246,Mexico DF Taxi Libre,624,2657,hospital,Hospital Pediátrico Iztacalco,44.141966146593312
+7273,Mexico DF Taxi Libre,1412,3230,hospital,Ampl. Hospital de la Divina Providencia,43.053163037249647
+8428,Mexico DF Taxi de Sitio,396,1435,hospital,Hospital Medex,41.703406378855306
+7918,Mexico DF Taxi Libre,683,4846,hospital,Hospital General Enrique Cabrera,40.479134228604607
+4902,Mexico DF Taxi de Sitio,1800,6917,hospital,Hospital María José,38.213754899122947
+672,Mexico DF Radio Taxi,1203,1431,hospital,Hospital Los Ángeles Metropolitano,38.013986747684818
+903,Mexico DF Radio Taxi,780,4227,hospital,1ro de Mayo,37.725669690235605
+1989,Mexico DF UberX,1696,9037,hospital,Clínica de Especialidades "Churubusco",36.186547821363696
+2449,Mexico DF Taxi de Sitio,2155,9168,hospital,ISSSTE Clinica de Medicina Familiar,33.297496705127784
+974,Mexico DF Taxi Libre,1263,6303,hospital,Hospital de traumatología y ortopedia No 2 "villa coapa",32.429372944474146
+5404,Mexico DF Taxi Libre,1883,11425,hospital,Instituto Nacional de Psiquiatría,30.290623620856184
+2632,Mexico DF Taxi de Sitio,523,2302,hospital,ISSSTE Unidad Especial Centro de Apoyo Diagnóstico "San Rafael",28.476794049457475
+4967,Mexico DF Taxi Libre,71,217,hospital,Hospital Pediátrico Iztapalapa,27.396705848130665
+4517,Mexico DF Taxi Libre,8539,5263,hospital,Clinica Imss,27.206462744065661
+9211,Mexico DF Taxi Libre,1073,4268,hospital,Hospital Materno Infantil Magdalena Contreras,24.812071529862248
+8378,Mexico DF Taxi de Sitio,1889,10768,hospital,Centro de salud Palo Alto,24.803640955870982
+8432,Mexico DF Taxi de Sitio,672,2325,hospital,Hospital Consultores Ambientales, S.A. De C.V.,23.666639811728313
+4530,Mexico DF Taxi de Sitio,2221,9079,hospital,Hospital Pediátrico Coyoacán,23.252769522588615
+738,Mexico DF Taxi Libre,241,976,hospital,Hospital vicentino y casa hogar,22.70706637460956
+8432,Mexico DF Taxi de Sitio,672,2325,hospital,Hospital Santa Elena, Angeles Roma,21.733583220683744
+10169,Mexico DF Taxi de Sitio,1599,7357,hospital,Médica San Luis,14.81495545102173
+8462,Mexico DF Taxi Libre,3336,8706,hospital,Laboratorio Médico del Chopo,13.708799128320319
+450,Mexico DF Taxi de Sitio,1409,3061,hospital,Centro de Salud Dr. D. Orvañanos,12.75066680566735
+201,Mexico DF Taxi Libre,752,2145,hospital,Clinica Del Carmen,9.5871346337110026
+7972,Mexico DF Taxi de Sitio,2654,17408,hospital,IMSS HGR 2/URGENCIAS,7.8026672633801422
