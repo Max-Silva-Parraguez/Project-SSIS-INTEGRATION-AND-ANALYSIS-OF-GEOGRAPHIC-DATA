@@ -1,55 +1,55 @@
-# Proyecto: Análisis de Datos Geográficos con SSIS
+# Project: GEOGRAPHIC DATA INTEGRATION AND ANALYSIS PROJECT USING SSIS
 
-## 📌 Descripción
-Este proyecto tiene como objetivo realizar un análisis de datos geográficos relacionados con el transporte urbano en la Ciudad de México, utilizando archivos Shapefiles y datos GPS de viajes en taxi. Se desarrolló un flujo ETL completo con SSIS y SQL Server, integrando, transformando y analizando los datos para obtener insights clave sobre rutas, puntos de interés y movilidad urbana.
+## 📌 Description
+This project aims to perform an analysis of geographic data related to urban transportation in Mexico City, using Shapefiles and GPS data from taxi trips. A complete ETL flow was developed with SSIS and SQL Server, integrating, transforming and analyzing the data to obtain key insights on routes, points of interest and urban mobility.
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Technologies used
 - SQL Server
 - SSIS (SQL Server Integration Services)
-- QGIS (para exploración de datos espaciales)
-- C# (.NET Framework) para inserción de Shapefiles
-- Archivos Shapefile (.shp)
-- Datos GPS (.CSV)
-- Microsoft Excel / Archivos CSV para exportar resultados
+- QGIS (for spatial data exploration)
+- C# (.NET Framework) for inserting Shapefiles
+- Shapefile files (.shp)
+- GPS data (.CSV)
+- Microsoft Excel / CSV files to export results
 
-## 🗃 Estructura de la Base de Datos
-Se crearon dos bases de datos:
+## 🗃 Database Structure
+Two databases were created:
 
-- **DATOS_GEOGRAFICOS**: Contiene los datos crudos provenientes de los Shapefiles y del archivo CSV GPS.
-- **DATOS_GEOGRAFICOS_LIMPIOS**: Almacena solo los datos filtrados y transformados, listos para análisis.
+- **GEOGRAPHIC_DATA**: Contains the raw data from the Shapefiles and the GPS CSV file.
+- **CLEAN_GEOGRAPHIC_DATA**: Stores only filtered and transformed data, ready for analysis.
 
-Ambas bases contienen tablas relacionadas con:
-- Rutas y carreteras
-- Puntos de interés
-- Transporte público
-- Áreas naturales y cuerpos de agua
-- Datos detallados de viajes en taxi
+Both databases contain tables related to:
+- Routes and roads
+- Points of interest
+- Public transport
+- Natural areas and bodies of water
+- Detailed taxi trip data
 
-## 🔁 Flujo de trabajo del proyecto
-1. Exploración de los archivos Shapefile en QGIS.
-2. Inserción de los Shapefiles en SQL Server mediante C# y SSIS.
-3. Carga y limpieza de los datos GPS en SSIS.
-4. Filtrado y transformación de los datos a una base limpia.
-5. Ejecución de consultas SQL para análisis.
-6. Exportación de resultados a archivos CSV.
+## 🔁 Project workflow
+1. Exploring the Shapefiles in QGIS.
+2. Inserting the Shapefiles into SQL Server using C# and SSIS.
+3. Loading and cleaning the GPS data into SSIS.
+4. Filtering and transforming the data to a clean database.
+5. Running SQL queries for analysis.
+6. Exporting results to CSV files.
 
-## ▶ Ejecución del proyecto
+## ▶ Project execution
 
-### Requisitos previos:
-- SQL Server y SSIS instalados
-- QGIS (opcional para exploración)
-- Visual Studio con .NET Framework (para ejecutar los códigos C# de carga Shapefiles)
-- Archivos fuente (.shp y .csv)
+### Prerequisites:
+- SQL Server and SSIS installed
+- QGIS (optional for exploration)
+- Visual Studio with .NET Framework (to run the C# codes to load Shapefiles)
+- Source files (.shp and .csv)
 
-### Pasos para ejecutar:
-1. Crear las bases de datos: `DATOS_GEOGRAFICOS` y `DATOS_GEOGRAFICOS_LIMPIOS` en SQL Server.
-2. Ejecutar los proyectos C# para cargar los shapefiles.
-3. Ejecutar los paquetes SSIS para carga y transformación de datos.
-4. Ejecutar consultas SQL para análisis.
-5. Verificar archivos CSV exportados con los resultados.
+### Steps to execute:
+1. Create the databases: `DATOS_GEOGRAFICOS` and `DATOS_GEOGRAFICOS_LIMPIOS` in SQL Server.
+2. Run the C# projects to load the shapefiles.
+3. Run the SSIS packages for data loading and transformation.
+4. Run SQL queries for analysis.
+5. Verify exported CSV files with the results.
 
-## 📍 Conclusión
-Este proyecto demuestra cómo los datos espaciales, combinados con procesos ETL y análisis en SQL Server, pueden aportar información valiosa para mejorar el transporte urbano, la planificación territorial y la movilidad ciudadana.
+## 📍 Conclusion
+This project demonstrates how spatial data, combined with ETL processes and analysis in SQL Server, can provide valuable information to improve urban transport, territorial planning and citizen mobility.
 
-## 📝 Notas
-El proyecto completo, incluyendo scripts SQL, archivos SSIS y ejecutables, se encuentra en la carpeta de este repositorio. Y la documentación completa está en el pdf: SSIS - Geographic Data Analysis.pdf
+## 📝 Notes
+The complete project, including SQL scripts, SSIS files and executables, is located in the folder of this repository. And the complete documentation is in the pdf: SSIS - Geographic Data Analysis.pdf
