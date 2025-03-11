@@ -1,0 +1,6 @@
+Shapefiles:
+https://download.geofabrik.de/north-america.html
+
+GPS:
+https://www.kaggle.com/datasets/mnavas/taxi-routes-for-mexico-city-and-quito?select=mex_clean.csv
+
